@@ -1,0 +1,11 @@
+# Global Fire Emissions Database version 4.1 including small fire burned area (GFED4s)  
+# Estimates for 2017 onwards based on relations between active fires and emissions  
+# Estimates for 2020 for January - April 17, will be updated with ~1 month latency  
+# CO2 emissions estimates in 1E13 g CO2 for the globe, different regions, and different fire types 
+
+All fire types combined: 
+
+                                                                               Year                                                                 (Beta) (Beta) (Beta) (Beta)  '97-'19  
+Region   1997   1998   1999   2000   2001   2002   2003   2004   2005   2006   2007   2008   2009   2010   2011   2012   2013   2014   2015   2016   2017   2018   2019   2020 |    Mean 
+NHSA       12     17      9     12     13      7     20     11      8      7     14      8      9     10      4      6      7     11     10     17      6     12     17     12 |      11 
+SHSA      114    146    134     61     61    107     86    125    152     72    184     64     35    189     51     98     47     67     90     84     91     47    100      4 |      93 
