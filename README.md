@@ -2,13 +2,15 @@
 
 ![](Images/wildfires.png)
 
-This project entails the analysis of exisiting historical data regarding the wildfires in Brazil and their causes. 
+This project entails the analysis of exisiting historical data regarding the occurrence of wildfires in Brazil. 
 
-The Amazon forest did not evolve to burn, but the human being has done it for centuries for agricultural purposes. And on top of that, we know that global warming has an impact in the state of the forests worldwide.
+The Amazon forest did not evolve to burn, but the human being has done it for centuries for agricultural purposes. And on top of that, it is well known that global warming has an impact in the state of the forests worldwide.
 
-The aim of this project is to analyze whether there has been a change in the occurrence of wildfires over time in Brazil, and to look at the possibles reasons for these changes.
+The aim of this project is to analyze whether there has been a change in the occurrence of wildfires in Brazil over time, and to look at the possibles reasons for these changes.
 
-Data about the number of fires from 1998 to 2017 was found from the portal of open data of the Brazilian government. In light of the unprecedent devastation of the Brazilian forest in 2019, it is unfortunate that data is not available from this source about the events of 2019. Despite the shortcoming, the project is focus in the data for the period 1998-2017, as relevant insights may be obtained that may explain the recent events. 
+Data about the number of fires from 1998 to 2017 was found in the portal of open data from the Brazilian government. In light of the unprecedent devastation of the Brazilian forest in 2019, it is unfortunate that data is not available from this source from 2018 up to now. In spite of that, this project is focused on the analysis of the data for the period 1998-2017, as relevant insights may be obtained to explain the events of recent years. 
+
+## Data handling
 
 The data was cleaned and saved into manageable data frames for further analysis and visualization. The detailed data cleaning and handling process can be found in the Jupyter notebook named "Main.ipynb" in the "Notebooks" folder of this repository. 
 
@@ -16,7 +18,9 @@ A Tableau workbook with the main findings can be found in the "Tableau workbooks
 
 ## Analysis
 
-Wildfires occur all ovewr Brazil, and a closer look at the amazonas region reveals that the combined 9 states have high frequency of cases, considering that this region is just forest.
+Visualization of the data can be done either in the Tableau workbook or in the "Wildfires in Brazil.pdf" file in this repository.
+
+Wildfires occur all ovewr Brazil, and a closer look at the amazonas region reveals that the combined 9 states have a high frequency of cases, considering that this region is just forest.
 
 ![](Images/map_brazil.png)
 ![](Images/map_amazon.png)
