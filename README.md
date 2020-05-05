@@ -2,7 +2,7 @@
 
 ![](Images/wildfires.png)
 
-This project entails the analysis of exisiting historical data regarding the occurrence of wildfires in Brazil. A public Tableau version of this project can be viewed on: https://public.tableau.com/views/wildfires_final/story?:display_count=y&publish=yes&:origin=viz_share_link
+This project entails the analysis of exisiting historical data regarding the occurrence of wildfires in Brazil. A public Tableau version of this project can be viewed on: https://public.tableau.com/profile/javier.silva2842#!/vizhome/wildfires_final/story
 
 ## Introduction 
 
