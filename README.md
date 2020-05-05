@@ -2,7 +2,7 @@
 
 ![](Images/wildfires.png)
 
-This project entails the analysis of exisiting historical data regarding the occurrence of wildfires in Brazil. 
+This project entails the analysis of exisiting historical data regarding the occurrence of wildfires in Brazil. A public Tableau version of this project can be viewed on: https://public.tableau.com/views/wildfires_final/story?:display_count=y&publish=yes&:origin=viz_share_link
 
 The Amazon forest did not evolve to burn, but the human being has done it for centuries for agricultural purposes. And on top of that, it is well known that global warming has an impact in the state of the forests worldwide.
 
